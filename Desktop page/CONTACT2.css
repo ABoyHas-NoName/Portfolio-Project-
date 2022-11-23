@@ -1,0 +1,170 @@
+
+
+/* NAV BAR AND TOGGLER */
+
+a.navbar-brand{
+    color: rgb(223, 211, 146); 
+}
+.navbar-toggler-icon{
+    color: red;
+}
+#socials {
+    background-color: rgb(73, 73, 73);
+    width: inherit;
+    height: 50px;
+    position: relative;
+    top: 265px;
+}
+
+#socials i {
+    padding: 5px 40px;
+    color: rgb(223, 211, 146);
+    position: relative;
+    top: 10px;
+}
+#fa-circle-user{
+    position: relative;
+    left: 145px;
+}
+
+
+body {
+    background: rgba(2, 15, 0, 0.877);
+}
+
+#body {
+    padding: 0px 0px;
+
+}
+/* 
+#nav {
+    height: 60px;
+    background-color: #000;
+
+}
+
+.navElem {
+    display: inline-flex;
+    text-align: justify;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+
+h2 {
+    color: rgb(223, 211, 146);
+
+}
+
+.fa-arrow-left {
+    color: #f00;
+}
+
+
+.aside {
+    float: right;
+    width: 300px;
+    height: 100vh;
+    background-color: rgb(136, 27, 27);
+    position: absolute;
+    top: 0;
+    left: 1055px;
+    z-index: 2;
+    visibility: hidden;
+}
+
+aside .fa-circle-user {
+    position: relative;
+    left: 110px;
+    top: 20px;
+}
+
+.asideWords {
+    position: relative;
+    top: 30px;
+    left: 10px;
+    line-height: 3;
+    color: rgb(223, 211, 146);
+}
+
+.asideWords a {
+    position: relative;
+    text-decoration: none;
+    color: rgb(223, 211, 146);
+    z-index: 2;
+}
+
+#socials {
+    background-color: rgb(73, 73, 73);
+    width: 300px;
+    height: 60px;
+    position: relative;
+    top: 286px;
+}
+
+#socials i {
+    padding: 5px 35px;
+    color: rgb(223, 211, 146);
+    position: relative;
+    top: 10px;
+}
+ */
+
+
+.body {
+    text-align: center;
+    position: relative;
+    top: 80px;
+}
+
+#hire h2 {
+    color: rgb(136, 27, 27);
+}
+
+input {
+    padding: 15px 250px;
+    border-radius: 7px;
+    border: none;
+    border-color: rgb(223, 211, 146);
+    color: rgb(223, 211, 146);
+    opacity: 0.5;
+}
+
+textarea {
+    border-radius: 7px;
+    border: none;
+    border-color: rgb(223, 211, 146);
+    color: rgb(223, 211, 146);
+    opacity: 0.5;
+}
+
+.contact {
+    border: 1px solid rgb(223, 211, 146);
+    border-radius: 7px;
+    padding: 10px 285px;
+    text-decoration: none;
+    color: rgb(136, 27, 27);
+}
+
+input[type=text] {
+    background: transparent;
+    border: 1px solid;
+}
+
+input::placeholder{
+    text-align: left;
+    position: absolute;
+    left: 20px;
+}
+
+textarea{
+    background: transparent;
+    border: 1px solid;
+}
+
+textarea::placeholder{
+    text-align: left;
+    position: absolute;
+    left: 10px;
+    top: 5px;
+}

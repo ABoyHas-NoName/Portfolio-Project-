@@ -1,0 +1,281 @@
+
+
+/* NAV BAR AND TOGGLER */
+
+a.navbar-brand{
+    color: rgb(223, 211, 146); 
+}
+.navbar-toggler-icon{
+    color: red;
+}
+#socials {
+    background-color: rgb(73, 73, 73);
+    width: inherit;
+    height: 50px;
+    position: relative;
+    top: 265px;
+}
+
+#socials i {
+    padding: 5px 40px;
+    color: rgb(223, 211, 146);
+    position: relative;
+    top: 10px;
+}
+#fa-circle-user{
+    position: relative;
+    left: 145px;
+}
+
+
+body {
+    background: rgba(2, 15, 0, 0.877);
+}
+
+
+
+
+#box-1 {
+    max-width: 350px;
+    height: 25rem;
+    background-color: #fff;
+    position: relative;
+    left: 960px;
+    top: 100px;
+    border-radius: 8px;
+    /* text-align: center; */
+}
+
+#h1 {
+    text-align: center;
+    background-color: #000;
+    color: rgb(223, 211, 146);
+    height: 30%;
+    border-radius: 7px 7px 0 0;
+}
+
+#h1 h1 {
+    padding: 15px 15px;
+}
+
+#h2 {
+    padding: 5px 15px;
+}
+
+#p {
+    padding: 15px 15px;
+    text-align: left;
+}
+
+#box-1 a {
+    text-decoration: none;
+    color: #00f;
+    padding: 20px 0 0 15px;
+    position: relative;
+    top: -18px;
+}
+
+
+#box-2 {
+    max-width: 350px;
+    height: 25rem;
+    background-color: #fff;
+    position: relative;
+    right: 300px;
+    top: 100px;
+    border-radius: 8px;
+    /* text-align: center; */
+}
+
+#h1 {
+    text-align: center;
+    background-color: #000;
+    color: rgb(223, 211, 146);
+    height: 30%;
+    border-radius: 7px 7px 0 0;
+}
+
+#h1 h1 {
+    padding: 15px 15px;
+}
+
+#h2 {
+    padding: 5px 15px;
+}
+
+#p {
+    padding: 15px 15px;
+    text-align: left;
+}
+
+#box-2 a {
+    text-decoration: none;
+    color: #00f;
+    padding: 20px 0 0 15px;
+    position: relative;
+    top: -18px;
+}
+
+
+#box-3 {
+    max-width: 350px;
+    height: 25rem;
+    background-color: #fff;
+    position: relative;
+    right: 200px;
+    top: 100px;
+    border-radius: 8px;
+    /* text-align: center; */
+}
+
+#h1 {
+    text-align: center;
+    background-color: #000;
+    color: rgb(223, 211, 146);
+    height: 30%;
+    border-radius: 7px 7px 0 0;
+}
+
+#h1 h1 {
+    padding: 15px 15px;
+}
+
+#h2 {
+    padding: 5px 15px;
+}
+
+#p {
+    padding: 15px 15px;
+    text-align: left;
+}
+
+#box-3 a {
+    text-decoration: none;
+    color: #00f;
+    padding: 20px 0 0 15px;
+    position: relative;
+    top: -18px;
+}
+
+#top-box {
+    display: flex;
+}
+
+#bottom-box {
+    display: flex;
+    padding: 150px 0;
+}
+
+#box-1:hover{
+    cursor: pointer;
+}
+
+#box-2:hover{
+    cursor: pointer;
+}
+
+#box-3:hover{
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+#nav {
+    height: 60px;
+    background-color: #000;
+
+}
+
+.navElem {
+    display: inline-flex;
+    text-align: justify;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+
+.navElem h2 {
+    color: rgb(223, 211, 146);
+
+}
+
+.fa-arrow-left {
+    color: #f00;
+}
+
+
+.aside {
+    float: right;
+    width: 300px;
+    height: 100vh;
+    background-color: rgb(136, 27, 27);
+    position: absolute;
+    top: 0;
+    left: 1055px;
+    z-index: 2;
+    visibility: hidden;
+}
+
+aside .fa-circle-user {
+    position: relative;
+    left: 110px;
+    top: 20px;
+}
+
+.asideWords {
+    position: relative;
+    top: 30px;
+    left: 10px;
+    line-height: 3;
+    color: rgb(223, 211, 146);
+}
+
+.asideWords a {
+    position: relative;
+    text-decoration: none;
+    color: rgb(223, 211, 146);
+    z-index: 2;
+}
+
+#socials {
+    background-color: rgb(73, 73, 73);
+    width: 300px;
+    height: 60px;
+    position: relative;
+    top: 286px;
+}
+
+#socials i {
+    padding: 5px 35px;
+    color: rgb(223, 211, 146);
+    position: relative;
+    top: 10px;
+} */
